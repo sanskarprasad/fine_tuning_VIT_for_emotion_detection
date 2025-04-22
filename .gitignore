@@ -172,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+vit-unfreeze-top3/tf_model.h5
